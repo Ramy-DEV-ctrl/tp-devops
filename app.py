@@ -1,2 +1,2 @@
-Print("Hello DevOps")
+print("Hello DevOps")
 
